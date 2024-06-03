@@ -9,11 +9,11 @@ body {
 }
 
 img {
-    border-radius: 8px; /* Kerekített sarkok */
+    border-radius: 8px;
 }
 
 h1 {
-    background-color: DodgerBlue;
+    background-color: dodgerblue;
     color: white;
     padding: 10px;
 }
